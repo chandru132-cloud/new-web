@@ -76,7 +76,7 @@ Overall, OnePlus is recognized for its focus on user experience, fast charging t
     <h1>contact us</h1>
     <h2>+91 8946458329</h2>
 </center>
-<h1>Thanks for visiting!</h1>
+<h1>Thanks for visitings!</h1>
 
      </body>
 </html>
