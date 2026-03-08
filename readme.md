@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>My Mobile store</title>
@@ -13,14 +13,13 @@
 
         </center>
         <center>
-            </ul>
          <li><a href="iphone.html">iPhone</a></li>
          <li><a href="samsung.html">Samsung</a></li>
          <li><a href="oneplus.html">OnePlus</a></li>
 
          <ul>
 
-        </center>
+        
     <hr>
     <h1>iphone</h1>
     <p>The Apple iPhone is a popular smartphone created by the Apple Inc. It was first introduced in 2007 by Steve Jobs, and it completely changed the way people use mobile phones. The iPhone combines a phone, internet browser, camera, music player, and many other features into one powerful device.
@@ -34,7 +33,7 @@ Another key feature is Apple’s ecosystem. iPhones work well with other Apple d
 Overall, the iPhone is known for its premium design, powerful performance, strong security, and user-friendly interface, which is why it is one of the most popular smartphones in the world today. 📱✨
 </p>
  <img src="iphone.jpg" alt="Iphone" width="500" height="300">
-        </center>
+        
         <img src="images (19).jpeg" alt="Iphone16">
         <img src="images (20).jpeg" alt="Iphone">
         <img src="images (21).jpeg" alt="Iphone">
@@ -77,6 +76,3 @@ Overall, OnePlus is recognized for its focus on user experience, fast charging t
     <h2>+91 8946458329</h2>
 </center>
 <h1>Thanks for visitings!</h1>
-
-     </body>
-</html>
